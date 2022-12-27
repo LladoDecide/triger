@@ -1,7 +1,7 @@
 resources:
   pipelines:
   - pipeline: Smart
-    source:smart
+    source: smart
 
 steps:
 - bash: echo "The security-lib-ci pipeline runs first"
