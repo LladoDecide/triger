@@ -1,2 +1,0 @@
-steps:
-- bash: echo "The security-lib-ci pipeline runs first"
