@@ -1,2 +1,6 @@
+resources:
+  pipelines:
+  - pipeline: securitylib # Name of the pipeline resource.
+
 steps:
 - bash: echo "The security-lib-ci pipeline runs first"
