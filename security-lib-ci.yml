@@ -1,6 +1,7 @@
 resources:
   pipelines:
-  - pipeline: SmartHotel-resource
+  - pipeline: Smart
+    source:smart
 
 steps:
 - bash: echo "The security-lib-ci pipeline runs first"
